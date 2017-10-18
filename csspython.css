@@ -1,0 +1,229 @@
+#wrapper {
+	background-color: rgb(66, 134, 244);
+	width: 970px;
+}
+
+#headerBlock1 {
+	display: inline-block;
+}
+
+#headerBlock2 {
+	display: inline-block;
+	position: absolute;
+	margin-left: 100px;
+}
+
+#headerBlock2Row1 {
+	text-align: right;
+	display: inline-block;
+	margin-left: 70px;
+}
+
+.yellowLink {
+	color: yellow;
+}
+
+#OutsideTextBox {
+	background-color: black;
+	border-radius: 25px;
+	display: inline-block;
+	padding: 20px;
+}
+
+#submit {
+background-color: rgb(66, 134, 244);
+color: white;
+border-radius: 5px;
+padding: 5px;
+}
+
+#optionsBar {
+	text-align: center;
+	display: inline-block;
+	background-color: rgb(9, 64, 153);
+	border-radius: 5px;
+	padding-top: 10px;
+	margin-left: 40px;
+	margin-right: 40px;
+	border-right-color: black;
+	border-bottom-color: black;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-right-width: 3px;
+	border-bottom-width: 3px;
+	height: 40px;
+}
+
+
+[id^="optionsBarBlock"] {
+	width: 142px;
+	height: 15%;
+	font-family: arial;
+	font-size: 16px;
+	background-color: rgb(9, 64, 153);
+	display: inline-block;
+}
+
+.optionsBarText {
+	color: white;
+	text-decoration: none;
+}
+
+#mainBlock {
+	text-align: center;
+	display: inline-block;
+	border-bottom-style: solid;
+	border-bottom-width: 3px;
+	border-bottom-color: black;
+}
+
+#mainBlockLeftBox {
+	display: inline-block;
+	text-align: center;
+	vertical-align: top;
+}
+
+.listLinks {
+	color: rgb(242, 244, 247);
+	margin-top: 20px;
+}
+
+.listLinksBullets {
+	list-style-type: square;
+	color: yellow;
+	margin: 30px;
+}
+
+#mainBlockRightBox {
+	width: 500px;
+	display: inline-block;
+	vertical-align: top;
+}
+
+#mainBlockRightBoxRow1 {
+	width: 500px;
+	color: white;
+	font-family: arial;
+	font-size: 14px;
+	text-align: center;
+	height: 120px;
+	margin-top: 20px;
+	vertical-align: top;
+}
+
+#mainBlockRightBoxRow2 {
+	height: 150px;
+	text-align: center;
+	vertical-align: top;
+
+}
+
+.yellowLine {
+	font-size: 18px;
+	font-family: arial;
+	font-style: italic;
+	text-align: center;
+	color: rgb(255, 216, 76);
+}
+
+#notYellowLine {
+	color: white;
+	font-family: arial;
+	font-size: 16px;
+}
+
+#thirdRow {
+	background-color: white;
+	height: 450px;
+	margin-top: 30px;
+	width: 970px;
+}
+
+#rowAboveFooterLeftBox {
+	display: inline-block;
+	width: 400px;
+	margin: 20px;
+	border-top-style: solid;
+	border-top-color: rgb(66, 134, 244);
+	border-top-width: 5px;
+	height: 500px;
+	vertical-align: top;
+}
+
+#rowAboveFooterRightBox {
+	display: inline-block;
+	width: 400px;
+	margin: 20px;
+	border-top-style: solid;
+	border-top-color: rgb(66, 134, 244);
+	border-top-width: 5px;
+	height: 500px;
+	vertical-align: top;
+}
+
+.aboveFooterText {
+	font-size: 18px;
+	font-family: arial;
+}
+
+.aboveFooterTitle {
+	font-size: 26px;
+	font-family: arial;
+}
+
+.listText {
+	color: rgb(66, 134, 244);
+	font-size: 18px;
+	font-family: arial;
+}
+
+.ListAboveFooterText {
+	list-style-type: square;
+	color: black;
+}
+
+#footer {
+	height: 100px;
+}
+
+#footerFirstRow {
+	margin-top: 100px;
+	height: 50px;
+	
+}
+
+#footerFirstRowBlock1 {
+	width: 300;
+	display: inline-block;
+	text-align: center;
+}
+
+#footerFirstRowBlock2 {
+	width: 300;
+	display: inline-block;
+	text-align: center;
+}
+
+#footerFirstRowBlock3 {
+	width: 300;
+	display: inline-block;
+	text-align: center;
+}
+
+.footerText {
+	color: rgb(35, 103, 153);
+	font-size: 24;
+	text-decoration: none;
+	font-family: arial;
+}
+
+#footerSecondRow {
+	text-align: center;
+	display: inline-block;
+	height: 20px;
+}
+#footerText2 {
+	color: rgb(35, 103, 153);
+	font-size: 10;
+	font-family: arial;
+}
